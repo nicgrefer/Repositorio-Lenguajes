@@ -1,0 +1,14 @@
+p{
+    color: blue;
+}
+p+p{
+    color: green;
+}
+
+#li1{
+    color: red;
+}
+
+#li2{
+    color: blue;
+}
